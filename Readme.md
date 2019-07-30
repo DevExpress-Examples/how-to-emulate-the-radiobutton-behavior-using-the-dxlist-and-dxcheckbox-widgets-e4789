@@ -1,6 +1,6 @@
 # How to emulate the RadioButton behavior using the dxList and dxCheckBox widgets
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4789)**
+**[[Run Online]](https://codecentral.devexpress.com/e4789/)**
 <!-- run online end -->
 
 
