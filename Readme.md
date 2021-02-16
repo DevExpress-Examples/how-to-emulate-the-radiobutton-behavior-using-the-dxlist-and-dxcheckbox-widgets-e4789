@@ -1,8 +1,9 @@
-# How to emulate the RadioButton behavior using the dxList and dxCheckBox widgets
+# (Obsolete) How to emulate the RadioButton behavior using the dxList and dxCheckBox widgets
 
+This example is now obsolete. You can find an actual example in our technical demos:
 
-<p>At present, DevExteme does not provide the RadioButton widget. It is possible to introduce a similar functionality manually using the dxList and dxCheckbox. The main idea is to place the dxCheckbox to the item template and when a user checks the check box, uncheck other check boxes in your dxList. </p>
-
-<br/>
-
-
+[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/RadioGroup/Overview/Angular/Light/)<br/>
+[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/RadioGroup/Overview/React/Light/)<br/>
+[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/RadioGroup/Overview/Vue/Light/)<br/>
+[ASP.NET](https://js.devexpress.com/Demos/WidgetsGallery/Demo/RadioGroup/Overview/NetCore/Light/)<br/>
+[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/RadioGroup/Overview/jQuery/Light/)<br/>
